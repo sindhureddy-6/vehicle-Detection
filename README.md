@@ -83,7 +83,7 @@ perform object detection to recognize the types of vehicles.
 
 ## Demo
 
-A short demonstration video showcasing the UI and capabilities of the web application, including the object detection feature, is available [here]https://drive.google.com/file/d/1QNwFUJOQlBVIi2oldhMvOU_WKfpnWapY/view?usp=sharing
+A short demonstration video showcasing the UI and capabilities of the web application, including the object detection feature, is available [https://drive.google.com/file/d/1QNwFUJOQlBVIi2oldhMvOU_WKfpnWapY/view?usp=sharing]
 
 
 
