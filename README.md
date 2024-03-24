@@ -63,7 +63,7 @@ perform object detection to recognize the types of vehicles.
     npm run dev
     ```
 
-3. Access the application at http://localhost:3000 in your web browser.
+3. Access the application at http://localhost:5173 in your web browser.
 
 ### Docker Deployment
 
@@ -83,7 +83,7 @@ perform object detection to recognize the types of vehicles.
 
 ## Demo
 
-A short demonstration video showcasing the UI and capabilities of the web application, including the object detection feature, is available [here]([link-to-demo-video](https://drive.google.com/file/d/1QNwFUJOQlBVIi2oldhMvOU_WKfpnWapY/view?usp=sharing)).
+A short demonstration video showcasing the UI and capabilities of the web application, including the object detection feature, is available [[here]https://drive.google.com/file/d/1QNwFUJOQlBVIi2oldhMvOU_WKfpnWapY/view?usp=sharing
 
 
 
